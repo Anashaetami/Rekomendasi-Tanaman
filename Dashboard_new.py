@@ -76,7 +76,7 @@ def status_hujan(rain):
 # =====================
 TANAMAN = {
     "Padi":   {"N":"Sedang","P":"Sedang","K":"Sedang","temp":(24,30),"rh":(70,90),"rain":(200,350)},
-    "Jagung": {"N":"Tinggi","P":"Sedang","K":"Sedang","temp":(21,32),"rh":(60,85),"rain":(100,250)},
+    "Jagung": {"N":"Rendah","P":"Sedang","K":"Sedang","temp":(21,32),"rh":(60,85),"rain":(100,250)},
     "Cabai":  {"N":"Sedang","P":"Tinggi","K":"Tinggi","temp":(24,30),"rh":(60,80),"rain":(100,250)},
     "Tomat":  {"N":"Sedang","P":"Sedang","K":"Tinggi","temp":(20,28),"rh":(60,80),"rain":(80,200)},
     "Terong": {"N":"Sedang","P":"Sedang","K":"Tinggi","temp":(22,30),"rh":(60,85),"rain":(100,250)},
